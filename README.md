@@ -17,12 +17,6 @@ C++17 implementation of hybrid Strassen multiplication with crossover tuning, be
 Interview prep platform with spaced repetition, weak-area detection, and personalized practice recommendations.  
 `FastAPI` `PostgreSQL` `React` `Python`
 
-## In Progress
-
-- Distributed task queue
-- AI code review agent
-- GitHub analytics dashboard
-
 ## Stack
 
 `JavaScript` `TypeScript` `Python` `C++` `SQL`  
