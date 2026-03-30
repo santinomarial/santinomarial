@@ -1,7 +1,7 @@
 # Santino Marial
 
 Building distributed systems, real-time infrastructure, and developer tools.  
-CS + Statistics @ Harvard ('27).
+CS + Stat @ Harvard '27.
 
 ## Selected Work
 
