@@ -12,7 +12,7 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -42,7 +42,7 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -54,7 +54,7 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Machine Learning Fellow** — Harvard Undergraduate Machine Intelligence Community *(Feb 2026 – Present)*
 - **Applied AI Fellow** — Harvard Grid *(Sep 2025 – Dec 2025)*
