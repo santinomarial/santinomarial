@@ -9,7 +9,6 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 <a href="https://linkedin.com/in/santinomarial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/santinomarial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:smarial@college.harvard.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=santinomarial&style=flat&color=blue" alt="Profile views"/>
 
 ---
 
@@ -62,17 +61,3 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 - **Software Engineer Intern** — MoMo from MTN *(May 2025 – Aug 2025)*
 - **Engineering & Research Intern** — diiVe, Cape Town *(Jun 2024 – Aug 2024)*
 - **Program Coordinator & Engineer** — Young Leaders Academy of South Sudan *(Sep 2023 – Present)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=santinomarial&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santinomarial&layout=compact&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=santinomarial&hide_border=true)
-
-</div>
