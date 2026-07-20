@@ -1,13 +1,13 @@
 # Santino Marial
 
-**Software Engineer | Backend Systems, ML Infrastructure & Applied AI**  
+**Software Engineer · Backend Systems, ML Infrastructure & Applied AI**  
 Computer Science & Statistics at Harvard University · Class of 2027
 
-I build production systems that make complex workflows faster, more reliable, and easier to operate. My experience spans real-time anomaly detection, ML inference infrastructure, payment reconciliation, and full-stack platforms, with an emphasis on end-to-end ownership, thoughtful architecture, and measurable impact.
-Cambridge, Massachusetts · smarial@college.harvard.edu
+I build production systems for data-intensive and operationally critical workflows. Across security, machine learning, payments, and education, I have owned software from architecture and implementation through deployment and optimization, with a focus on reliability, performance, and measurable impact.
+
+Cambridge, MA
 
 <a href="https://linkedin.com/in/santinomarial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/santinomarial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:smarial@college.harvard.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
@@ -44,27 +44,28 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ---
 
 ## Selected Projects
 
-### [Meridian](https://github.com/santinomarial/Meridian) — CRDT-Based Collaborative IDE
+### [Meridian](https://github.com/santinomarial/Meridian) — Durable CRDT Collaboration Platform
 
 - Engineered a real-time collaborative IDE using **Yjs**, **Socket.IO**, and **Monaco**, enabling conflict-free document editing across multiple clients.
-- Designed a durable state layer in **PostgreSQL** using an append-only update log and periodic snapshot compaction, supporting fast cold-start recovery without replaying complete document histories.
-- Built the **React/TypeScript** client and **NestJS** backend, using **Redis pub/sub** to synchronize state across horizontally scaled service instances.
+- Designed a durable **PostgreSQL** state layer using an append-only update log and periodic snapshot compaction, supporting fast recovery without replaying complete document histories.
+- Built the **React/TypeScript** client and **NestJS** backend, with **Redis pub/sub** coordinating updates across service instances.
 
-### [Collaborative Code Editor](https://github.com/santinomarial/collaborative) — Real-Time Multi-User Editor
+### [Collaborative Code Editor](https://github.com/santinomarial/collaborative) — Custom Operational Transformation Engine
 
-- Implemented a custom **Operational Transformation** engine supporting more than 30 concurrent users with synchronization latency below 150 milliseconds.
-- Built a **WebSocket** communication layer with **Redis pub/sub** to distribute edits across horizontally scaled **Node.js** server instances.
-- Developed the **React** frontend and **Node.js/MongoDB** backend; the platform was used by 25 Harvard computer science students.
+- Implemented an **Operational Transformation** engine from first principles, supporting more than 30 concurrent users with synchronization latency below 150 milliseconds.
+- Built a **WebSocket** synchronization layer with **Redis pub/sub** to distribute edits across **Node.js** server instances.
+- Developed the **React/Node.js/MongoDB** application, which was used by 25 Harvard computer science students.
 
 ### [Forward Repair for RAG Pipelines](https://github.com/santinomarial/forward-repair-lm-pipelines) — RAG Reliability Framework
 
-- Developed a **Python/DSPy** framework for isolating, corrupting, and repairing failures at individual stages of retrieval-augmented generation pipelines.
+- Developed a **Python/DSPy** framework for injecting, isolating, and repairing failures at individual stages of retrieval-augmented generation pipelines.
 - Evaluated query-stage and answer-stage failure modes on **HotpotQA**, using **BM25** retrieval to ground each experiment.
-- Designed modular corruption and repair interfaces that enabled controlled, stage-by-stage comparisons across pipeline configurations.
+- Designed modular corruption and repair interfaces that enabled controlled comparisons across pipeline stages and configurations.
 
 ---
 
@@ -75,7 +76,7 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 *January 2026 – May 2026*
 
 - Re-architected a synchronous generation pipeline as an asynchronous **FastAPI** worker system with task queues, parallelizing multi-stage inference and reducing per-video turnaround to under 90 seconds.
-- Implemented a **Redis-backed caching layer** for reusable model responses, reducing API costs by 35% while maintaining 99%+ uptime for more than 50 students.
+- Implemented a **Redis-backed caching layer** for reusable model responses, reducing API costs by 35% while supporting weekly use by more than 50 students.
 - Owned backend architecture, caching strategy, and deployment, transforming a research prototype into a production service used by the club each week.
 
 ### Software Engineer, AI — Harvard Grid
@@ -84,7 +85,6 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 
 - Built and deployed a real-time anomaly detection pipeline on **AWS** using **Python**, processing more than 10,000 security alerts daily with under three-second latency and less than $100 per month in cloud costs.
 - Engineered **Pandas/NumPy** feature pipelines and trained **scikit-learn** models, achieving over 80% precision while reducing false positives by 60%.
-- Optimized model complexity, system throughput, and infrastructure usage to deliver production-grade detection within a constrained cloud budget.
 
 ### Software Engineer Intern — MoMo from MTN
 
@@ -100,12 +100,14 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 
 - Developed **Python** data pipelines to clean, standardize, and transform unstructured labor records into analysis-ready datasets.
 - Produced reliable datasets that supported client-facing analysis, stakeholder presentations, and policy recommendations.
-- Bridged engineering and research needs by establishing a dependable data foundation for downstream, non-technical decision-making.
+
+---
+
+## Leadership & Community
 
 ### Program Coordinator & Engineer — Young Leaders Academy of South Sudan
 
 *September 2023 – Present*
 
-- Built and continue to maintain a full-stack learning platform supporting student onboarding, content delivery, and program operations using **React**, **Node.js**, **TypeScript**, **GraphQL**, and **MongoDB**.
+- Build and maintain a full-stack learning platform supporting student onboarding, content delivery, and program operations using **React**, **Node.js**, **TypeScript**, **GraphQL**, and **MongoDB**.
 - Translate staff and student workflows into product improvements while coordinating the academy’s day-to-day program operations.
-- Have sustained technical and operational ownership since 2023 alongside a full-time Harvard course load, keeping the platform aligned with the organization’s mission.
