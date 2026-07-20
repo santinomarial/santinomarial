@@ -18,6 +18,7 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
