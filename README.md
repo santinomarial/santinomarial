@@ -1,10 +1,9 @@
 # Santino Marial
 
-**Software Engineer focused on backend systems, machine learning, and AI infrastructure**  
+**Software Engineer | Backend Systems, ML Infrastructure & Applied AI**  
 Computer Science & Statistics at Harvard University · Class of 2027
 
-I build reliable, performance-conscious software—from distributed collaboration platforms and a C++ database engine built from scratch to real-time anomaly detection systems processing more than 10,000 alerts per day. I focus on low-latency architecture, production reliability, and measurable user impact.
-
+I build production systems that make complex workflows faster, more reliable, and easier to operate. My experience spans real-time anomaly detection, ML inference infrastructure, payment reconciliation, and full-stack platforms, with an emphasis on end-to-end ownership, thoughtful architecture, and measurable impact.
 Cambridge, Massachusetts · smarial@college.harvard.edu
 
 <a href="https://linkedin.com/in/santinomarial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,7 +14,7 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 
 ## Technical Skills
 
-**Languages**
+**Languages**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -24,7 +23,7 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Backend & Distributed Systems**
+**Backend, APIs & Databases**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -34,16 +33,16 @@ Cambridge, Massachusetts · smarial@college.harvard.edu
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Machine Learning & Data**
+**Machine Learning & AI**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![DSPy](https://img.shields.io/badge/DSPy-000000?style=flat)
 
-**Frontend & Infrastructure**
+**Frontend, Cloud & Tooling**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ---
 
