@@ -48,7 +48,7 @@ I build backend systems, ML pipelines, and AI infrastructure — from a C++ data
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Meridian** | CRDT-based collaborative IDE using Yjs for conflict-free multi-client sync, with Socket.IO document rooms and Monaco editor integration for real-time concurrent editing. Durable persistence via an append-only update log with periodic snapshot compaction in PostgreSQL. | TypeScript · React · NestJS · PostgreSQL · Redis · Yjs |
+| [**Meridian**](https://github.com/santinomarial/Meridian) | CRDT-based collaborative IDE using Yjs for conflict-free multi-client sync, with Socket.IO document rooms and Monaco editor integration for real-time concurrent editing. Durable persistence via an append-only update log with periodic snapshot compaction in PostgreSQL. | TypeScript · React · NestJS · PostgreSQL · Redis · Yjs |
 | [**Collaborative Code Editor**](https://github.com/santinomarial/collaborative) | Real-time editor for 30+ concurrent users with sub-150ms sync via a custom Operational Transformation engine; horizontally-scalable WebSockets with Redis pub/sub. Adopted by 25 Harvard CS students. | Node.js · React · WebSockets · Redis · MongoDB |
 | [**Forward Repair for RAG Pipelines**](https://github.com/santinomarial/forward-repair-lm-pipelines) | DSPy-based RAG repair framework that corrupts and repairs specific LM pipeline stages, comparing query-stage vs. answer-stage failures with HotpotQA + BM25 retrieval. | Python · DSPy |
 
