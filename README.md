@@ -63,9 +63,9 @@ Cambridge, MA
 
 ### [Forward Repair for RAG Pipelines](https://github.com/santinomarial/forward-repair-lm-pipelines) — RAG Reliability Framework
 
-- Developed a **Python/DSPy** framework for injecting, isolating, and repairing failures at individual stages of retrieval-augmented generation pipelines.
-- Evaluated query-stage and answer-stage failure modes on **HotpotQA**, using **BM25** retrieval to ground each experiment.
-- Designed modular corruption and repair interfaces that enabled controlled comparisons across pipeline stages and configurations.
+- Architected a **Python/DSPy** framework that injects, isolates, and repairs query- or answer-stage RAG failures without rerunning unaffected stages.
+- Demonstrated across **300 HotpotQA examples** that query repair improved exact match by **19.3 percentage points**, while answer repair recovered only **2.2%** of failures.
+- Engineered interchangeable **BM25/dense retrieval** and **OpenAI/Ollama** backends with cost and latency telemetry, **36 deterministic tests**, **92% targeted coverage**, and automated CI.
 
 ---
 
